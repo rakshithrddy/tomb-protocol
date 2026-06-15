@@ -306,7 +306,7 @@ To request access: rakshith.tomb@gmail.com
 | | |
 |-|-|
 | **Inventor** | Rakshith N |
-| **Wet Lab** | Divakar YG — PhD Biotechnology, Bangalore University |
+| **Co-founder** | Divakar YG — PhD Biotechnology, Bangalore University |
 | **Email** | rakshith.tomb@gmail.com |
 | **Location** | Bengaluru, India |
 | **Patent** | IN202641065626 (filed 25 May 2026) |
