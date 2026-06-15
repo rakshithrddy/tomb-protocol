@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use TOMB in your research, please cite as below."
+authors:
+  - family-names: N
+    given-names: Rakshith
+    affiliation: Independent Researcher, Bengaluru, India
+    email: rakshith.tomb@gmail.com
+title: "TOMB: Topological Object Molecular Binary Storage"
+version: 1.0.1
+date-released: 2026-05-25
+abstract: >
+  TOMB is an open codec standard for DNA data storage —
+  a hardware-agnostic protocol stack that enables any application
+  to encode and decode data in DNA without hardware-specific knowledge.
+  Patent pending IN202641065626 (India, filed 25 May 2026).
+license: AGPL-3.0
+repository-code: https://github.com/rakshithrddy/tomb-protocol
+keywords:
+  - dna-storage
+  - molecular-storage
+  - open-codec
+  - snia-dars
+  - bioinformatics
+  - hardware-abstraction
