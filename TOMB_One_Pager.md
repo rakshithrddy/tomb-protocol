@@ -44,4 +44,5 @@ TOMB gives Biomemory the open codec layer that enterprise data center customers 
 
 ---
 
-📧 rakshith.tomb@gmail.com · github.com/rakshithrddy/tomb-protocol
+Rakshith N — Inventor & Co-founder · rakshith.tomb@gmail.com
+Divakar YG — Co-founder, Wet Lab · PhD Biotechnology, Bangalore University
