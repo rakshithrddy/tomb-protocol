@@ -79,7 +79,7 @@ Compression ratios (with ECC enabled):
   Patent  : IN202641065626
 ```
 
-> 🎬 **[Watch the live demo →](https://youtu.be/-JqKMrh3JGw)**
+> 🎬 [Watch the live demo](https://youtu.be/-JqKMrh3JGw)
 
 ---
 
